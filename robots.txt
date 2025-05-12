@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://roofingmaterialsshop.com/sitemap.xml
